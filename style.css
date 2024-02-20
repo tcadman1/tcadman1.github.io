@@ -1,0 +1,23 @@
+body {
+  background: blue;
+  color: White;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+.header {
+  text-align: center;
+  color: black;
+}
+
+.subline {
+  text-align: center;
+  color: grey;
+}
+
+li {
+  display: inline-block;
+  width: 100px;
+  color: black;
+}
+ 
